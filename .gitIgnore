@@ -1,7 +1,7 @@
-/node_modules
-/client/node_modules
+/node_modules/
+/client/node_modules/
 
 
 
 
-/backe_nd/config/config.env
+/back_end/config/config.env
